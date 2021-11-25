@@ -1,5 +1,5 @@
 # Attention-Guided-Contextual-Feature-Fusion-Network-for-Salient-Object-Detection
-This repo. is an implementation of ACFFNet, which is accepted for in Image and Vision Computing.
+This repo. is an implementation of ACFFNet (Attention guided contextual feature fusion network for salient object detection), which is accepted for in Image and Vision Computing.
 
 ## Paper
 The paper can be found [here](https://www.sciencedirect.com/science/article/abs/pii/S0262885621002420)
